@@ -8,4 +8,4 @@ I always thinking of becoming a programmer but due to no afford going to degree 
 
 While surfing in the internet I seen the codecademy.com and when i tried it.. It is very helpfull and I can easily follow the steps on every lesson discuss.
 
-As of this writing its been a week since I started. I hope to learn more and become one :D
+As of this writing its been a week since I started learning JAVASCRIPT. I hope to learn more and become programmer even if I am already 30. :D
